@@ -1,0 +1,68 @@
+body {
+  margin: 0 auto;
+  height: 100vh;
+  font-size: 16px;
+  font-family: 'Inter', sans-serif;
+  
+}
+img{
+  width: 100%;
+}
+h1{
+  font-size: 1.56em;
+  margin: 0;
+}
+h2{
+  color: rgb(3, 168, 168);
+  font-size: 1em;
+}
+h3{
+  color: rgb(3, 168, 168);
+  font-size: .8em;
+  margin: 0;
+}
+a{
+  font-size: .875em;
+}
+p{
+  font-size: .65em;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.color{
+  color: rgb(1, 104, 104);
+  font-size: 1.5em;
+}
+.mainContainer{
+  border: 2px solid black;
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 300px;
+  margin: 0 auto;
+}
+main{
+  height:70%;
+  background-color: rgb(248, 247, 247);
+}
+.main--title{
+  text-align: center;
+}
+.main--content{
+  margin: 1em;
+}
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.footer{
+  margin-top: auto;
+  display: flex;
+  justify-content: space-evenly;
+  padding:.5em 1em;
+  background-color: rgb(226, 226, 226);
+}

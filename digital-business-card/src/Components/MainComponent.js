@@ -8,23 +8,21 @@ export default function MainComponent(){
               <h3>Frontend Developer</h3>
             </div>
             <div className='flex'>
-              <div className='flex'>
-                <p><i className="fa-solid fa-envelope color"></i></p>
-                <a>Email</a>
-              </div>
+              
+
               <div className='flex'>
                 <p><i className="fa-brands fa-linkedin color"></i></p>
-                <a>LinkedIn</a>
+                <a href="https://www.linkedin.com/in/dikshakhatri/" target="_blank">LinkedIn</a>
               </div>
             </div>
             <div className='main--content'>
               <div >
               <h2>About</h2>
-              <p>I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.</p>
+              <p>An Adaptive Resilient Developer(Adaptive to new technology and Resilient to Adapt).I am a Frontend Developer with the ability to write clean and efficient code , and strong ability to execute and implement standard software architecture patterns.</p>
               </div>
               <div>
               <h2>Intrests</h2>
-              <p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+              <p>Tech Lover , Great White Lover , Coffee Lover</p>
               </div>
             </div>
        </main>
